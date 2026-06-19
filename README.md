@@ -46,7 +46,7 @@ mission:
 
 ---
 
-<h2 align="center">🎯 Current Focus</h2>
+<h2 align="center">Current Focus</h2>
 
 <p align="center">
 
@@ -64,7 +64,7 @@ mission:
 
 ---
 
-<h2 align="center">⚙️ Tech Arsenal</h2>
+<h2 align="center">Tech Arsenal</h2>
 
 <p align="center">
 
@@ -74,7 +74,7 @@ mission:
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">Featured Projects</h2>
 
 <p align="center">
 
@@ -102,7 +102,7 @@ mission:
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
 
@@ -122,17 +122,11 @@ mission:
 
 ---
 
-<h2 align="center">🏅 Trophy Wall</h2>
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=paladuguganeshnaidu&theme=tokyonight&row=2&column=4"/>
-
-</p>
+<h2 align="center">Trophy Wall</h2>
 
 ---
 
-<h2 align="center">📈 Contribution Activity</h2>
+<h2 align="center">Contribution Activity</h2>
 
 <p align="center">
 
@@ -142,17 +136,10 @@ mission:
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/paladuguganeshnaidu/paladuguganeshnaidu/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
+<h2 align="center">Contribution Snake</h2>
 ---
 
-<h2 align="center">🏆 Achievements</h2>
+<h2 align="center">Achievements</h2>
 
 <div align="center">
 
@@ -172,7 +159,7 @@ mission:
 
 ---
 
-<h2 align="center">🌐 Connect</h2>
+<h2 align="center">Connect</h2>
 
 <p align="center">
 
@@ -194,7 +181,7 @@ mission:
 
 <div align="center">
 
-### 💻 Philosophy
+### Philosophy
 
 ```python
 while True:

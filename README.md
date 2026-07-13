@@ -142,6 +142,7 @@ mission:
 <h2 align="center">Achievements</h2>
 
 <div align="center">
+  
 🎯 Github Copilot Certified
 
 🥇 Top 46 among 4,000+ Google Student Ambassadors
